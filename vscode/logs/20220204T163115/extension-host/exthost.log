@@ -1,0 +1,18 @@
+[2022-02-04 16:31:26.693] [exthost] [info] extension host started
+[2022-02-04 16:31:27.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-02-04 16:31:27.590] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2022-02-04 16:31:27.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2022-02-04 16:31:27.598] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2022-02-04 16:31:27.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-02-04 16:31:27.690] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/git/dist/main
+[2022-02-04 16:31:27.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2022-02-04 16:31:27.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2022-02-04 16:31:27.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2022-02-04 16:31:27.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2022-02-04 16:31:28.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2022-02-04 16:31:28.326] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/python/dist/pythonMain
+[2022-02-04 16:31:29.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-02-04 16:31:29.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/github/dist/extension.js
+[2022-02-04 16:31:30.399] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onCommand:code-runner.run"}
+[2022-02-04 16:31:30.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/runner/VSCode/vscode/extensions/formulahendry.code-runner-0.9.17/out/src/extension
+[2022-02-04 16:31:31.503] [exthost] [info] eager extensions activated

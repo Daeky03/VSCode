@@ -1,0 +1,28 @@
+[2022-02-05 04:05:04.961] [exthost] [info] extension host started
+[2022-02-05 04:05:05.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-02-05 04:05:05.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2022-02-05 04:05:05.487] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2022-02-05 04:05:05.487] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2022-02-05 04:05:05.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-02-05 04:05:05.638] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/git/dist/main
+[2022-02-05 04:05:05.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2022-02-05 04:05:05.966] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2022-02-05 04:05:06.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2022-02-05 04:05:06.012] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2022-02-05 04:05:06.783] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-02-05 04:05:06.783] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/github/dist/extension.js
+[2022-02-05 04:05:07.318] [exthost] [info] eager extensions activated
+[2022-02-05 04:05:26.086] [exthost] [info] extension host started
+[2022-02-05 04:05:26.554] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-02-05 04:05:26.559] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2022-02-05 04:05:26.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2022-02-05 04:05:26.590] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2022-02-05 04:05:26.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-02-05 04:05:26.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/git/dist/main
+[2022-02-05 04:05:27.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2022-02-05 04:05:27.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2022-02-05 04:05:27.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2022-02-05 04:05:27.142] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2022-02-05 04:05:27.915] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-02-05 04:05:27.915] [exthost] [info] ExtensionService#loadCommonJSModule file:///nix/store/lrqrbss7vv18435ch8dhzr1ybwa9hgcq-code-server-3.9.0/libexec/code-server/lib/vscode/extensions/github/dist/extension.js
+[2022-02-05 04:05:28.556] [exthost] [info] eager extensions activated

@@ -1,0 +1,27 @@
+[2022-02-04 16:27:43.501] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/.vscode'
+[2022-02-04 16:27:43.501] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/.vscode'
+[2022-02-04 16:27:45.564] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/User/snippets'
+[2022-02-04 16:27:45.564] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/User/snippets'
+[2022-02-04 16:27:45.565] [remoteagent] [error] /home/runner/VSCode/vscode/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/runner/VSCode/vscode/extensions"}
+[2022-02-04 16:28:18.331] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/.vscode'
+[2022-02-04 16:28:18.332] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/.vscode'
+[2022-02-04 16:28:20.122] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/User/snippets'
+[2022-02-04 16:28:20.122] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/User/snippets'
+[2022-02-04 16:28:20.130] [remoteagent] [error] /home/runner/VSCode/vscode/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/runner/VSCode/vscode/extensions"}
+[2022-02-04 16:28:37.638] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/.vscode'
+[2022-02-04 16:28:37.638] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/.vscode'
+[2022-02-04 16:28:39.271] [remoteagent] [error] /home/runner/VSCode/vscode/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/runner/VSCode/vscode/extensions"}
+[2022-02-04 16:29:48.248] [remoteagent] [info] Installing extension: blackmist.linkcheckmd
+[2022-02-04 16:29:49.169] [remoteagent] [info] Downloaded extension: blackmist.linkcheckmd undefined
+[2022-02-04 16:29:51.155] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2022-02-04 16:29:51.533] [remoteagent] [info] Downloaded extension: formulahendry.code-runner undefined
+[2022-02-04 16:29:54.027] [remoteagent] [info] Extracted extension to /home/runner/VSCode/vscode/extensions/.formulahendry.code-runner-0.9.17: formulahendry.code-runner
+[2022-02-04 16:29:54.028] [remoteagent] [info] Renamed to /home/runner/VSCode/vscode/extensions/formulahendry.code-runner-0.9.17
+[2022-02-04 16:29:54.031] [remoteagent] [info] Installation completed. formulahendry.code-runner
+[2022-02-04 16:29:54.137] [remoteagent] [info] Extensions installed successfully: formulahendry.code-runner
+[2022-02-04 16:30:07.816] [remoteagent] [info] Extracted extension to /home/runner/VSCode/vscode/extensions/.blackmist.linkcheckmd-0.2.0: blackmist.linkcheckmd
+[2022-02-04 16:30:07.823] [remoteagent] [info] Renamed to /home/runner/VSCode/vscode/extensions/blackmist.linkcheckmd-0.2.0
+[2022-02-04 16:30:07.827] [remoteagent] [info] Installation completed. blackmist.linkcheckmd
+[2022-02-04 16:30:07.880] [remoteagent] [info] Extensions installed successfully: blackmist.linkcheckmd
+[2022-02-04 16:30:31.866] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/.vscode'
+[2022-02-04 16:30:31.866] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/.vscode'

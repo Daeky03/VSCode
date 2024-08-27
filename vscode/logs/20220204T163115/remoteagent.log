@@ -1,0 +1,2 @@
+[2022-02-04 16:31:18.115] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/.vscode'
+[2022-02-04 16:31:18.115] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/.vscode'

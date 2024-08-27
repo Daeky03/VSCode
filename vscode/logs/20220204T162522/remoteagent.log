@@ -1,0 +1,8 @@
+[2022-02-04 16:25:28.645] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/User/snippets'
+[2022-02-04 16:25:28.645] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/User/snippets'
+[2022-02-04 16:25:28.689] [remoteagent] [error] /home/runner/VSCode/vscode/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/runner/VSCode/vscode/extensions"}
+[2022-02-04 16:26:41.596] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/.vscode'
+[2022-02-04 16:26:41.596] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/.vscode'
+[2022-02-04 16:26:43.282] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/User/snippets'
+[2022-02-04 16:26:43.283] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/runner/VSCode/vscode/User/snippets'
+[2022-02-04 16:26:43.292] [remoteagent] [error] /home/runner/VSCode/vscode/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/runner/VSCode/vscode/extensions"}
